@@ -10,7 +10,10 @@ Aproveitando ao máximo o modulo, produzi conteudo para um jornal local, e uma t
 ## Referência
 
  - Dados utilizados no projeto >--  https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar
-
+ 
+ - Dados modelo desenvolvido em PowerBi >-- https://drive.google.com/file/d/1BG1eVOER7MyxLJytmwBHRJOfpVvUzzKR/view?usp=sharing
+ 
+ 
 ## Documentação
 
 
@@ -62,3 +65,23 @@ texto “Fonte: INEP”, com a cor “dark_gray” e fonte tamanho 12.
 “localizacao_diferenciada_rs.html”
 
 Adicionalmente, incluo o material de outra atividade, na qual utilizei PowerBi e mais 3 gráficos que produzi para uso em um jornal local.
+
+## Lendo os gráficos:
+
+- Nos gráficos do jornal:
+
+    O tamanho dos circulos é representado pela quantidade de alunos por professor;
+    Cada circulo é uma escola, e o insight representa a comparação entre quantidade de alunos/ Docentes.
+    São 3 cidades, cada uma possui um documento e um documento geral comparando as 3.
+
+- No gráfico final de modulo:
+
+    O tamanho dos circulos é representado pela quantidade de turmas por escola;
+    Cada circulo é uma escola, e o insight representa a comparação entre quantidade de alunos/ Docentes,
+    apresentando a diferença em locais de localização diferenciada em regiões rurais e urbanas
+
+- No PowerBI:
+
+    Cada circulo é uma escola do Rio Grande do Sul com quantidade de matriculas menor que 215;
+    Demonstra a quantidade de matriculas masculinas e femininas,
+    Sendo possivel filtrar por dependência administrativa(1 - Federal, 2 - Estadual, 3 - Municipal, 4 - Privada)
