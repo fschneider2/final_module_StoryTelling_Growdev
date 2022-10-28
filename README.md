@@ -85,3 +85,12 @@ Adicionalmente, incluo o material de outra atividade, na qual utilizei PowerBi e
     Cada circulo é uma escola do Rio Grande do Sul com quantidade de matriculas menor que 215;
     Demonstra a quantidade de matriculas masculinas e femininas,
     Sendo possivel filtrar por dependência administrativa(1 - Federal, 2 - Estadual, 3 - Municipal, 4 - Privada)
+    
+## O que eu aprendi com esse projeto?
+  
+- Este projeto me mostrou a qualidade e possibilidades dentro da ferramenta/biblioteca plotly;
+
+- Praticar o uso do PowerBI;
+
+- Vantagens e possibilidades(maravilhosas) do Dash plotly >--- https://plotly.com/, não esta no projeto aqui postado, mas li muito sobre.
+  
